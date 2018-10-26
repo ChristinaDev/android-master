@@ -1,0 +1,2 @@
+include 'baker', 'chewing-gum'
+rootProject.name = 'AlexaBaker'

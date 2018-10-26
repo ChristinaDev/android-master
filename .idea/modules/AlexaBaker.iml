@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="AlexaBaker" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.version="v0.13.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/../../build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/../../build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../out">
+      <excludeFolder url="file://$MODULE_DIR$/../../out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="baker" />
+    <orderEntry type="module" module-name="chewing-gum" scope="RUNTIME" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.grack:nanojson:1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jsoup:jsoup:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.mozilla:rhino:1.7.7.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.spotbugs:spotbugs-annotations:3.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.nibor.autolink:autolink:0.8.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="module" module-name="chewing-gum" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.grack:nanojson:1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jsoup:jsoup:1.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mozilla:rhino:1.7.7.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.spotbugs:spotbugs-annotations:3.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.nibor.autolink:autolink:0.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="module" module-name="baker" exported="" />
+    <orderEntry type="module" module-name="chewing-gum" exported="" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: nanojson-1.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: jsoup-1.9.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: rhino-1.7.7.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: spotbugs-annotations-3.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: autolink-0.8.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: jsr305-3.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: nanojson-1.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jsoup-1.9.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: rhino-1.7.7.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: spotbugs-annotations-3.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: autolink-0.8.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jsr305-3.0.2" level="project" />
+  </component>
+</module>
